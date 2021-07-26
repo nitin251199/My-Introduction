@@ -1,5 +1,5 @@
 <html>
-  -<h1> 👋 Hi, I’m Nitin.</h2>
+  -<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m Nitin.</h2>
 - 👀 I’m interested in full stack development.<br>
   - 🌱 I’m currently learning <a href="https://www.geeksforgeeks.org/mern-stack/">MERN</a> technology.<br>
 - 📫 How to reach me => nv251199@gmail.com<br>
